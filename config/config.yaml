@@ -1,0 +1,10 @@
+# config/config.yaml
+
+ffmpeg_path: "D:\\FFmpeg\\ffmpeg-2024-03-20-git-e04c638f5f-full_build\\bin\\ffmpeg.exe"
+automatic1111_api: "http://localhost:7860"
+ollama_api: "http://localhost:11434"
+default_style: "comics"
+sd_model: "sdxl"  # Default Stable Diffusion model
+lora_model: "default_lora"  # Default LoRA model
+models_directory: "F:\\Stable difusion\\stable-diffusion-webui\\models\\Stable-diffusion"  # Directory containing Stable Diffusion models
+loras_directory: "F:\\Stable difusion\\stable-diffusion-webui\\models\\Lora"    # Directory containing LoRA models

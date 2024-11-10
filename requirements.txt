@@ -1,0 +1,7 @@
+requests
+moviepy
+Pillow
+opencv-python
+PyYAML
+argparse
+spacy
