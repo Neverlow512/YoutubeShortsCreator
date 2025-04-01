@@ -1,6 +1,6 @@
 # YouTube Shorts Automation Tool
 
-![YouTube Shorts Automation Tool](https://via.placeholder.com/800x200?text=YouTube+Shorts+Automation+Tool)
+
 
 ## Table of Contents
 
