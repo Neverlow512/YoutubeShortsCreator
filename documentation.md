@@ -1,7 +1,3 @@
-Certainly! Below is a comprehensive and well-documented **README.md** file for your YouTube Shorts Automation Tool. This documentation provides an in-depth overview of the tool, explains the directory structure, details the purpose and functionality of each script, and offers clear instructions on how to use the tool effectively. This file is designed to be used in future interactions, ensuring that both you and any collaborator can understand and work with the tool seamlessly.
-
----
-
 # YouTube Shorts Automation Tool
 
 ![YouTube Shorts Automation Tool](https://via.placeholder.com/800x200?text=YouTube+Shorts+Automation+Tool)
@@ -628,13 +624,3 @@ python setup.py
   ```bash
   python main.py <path_to_script> <path_to_audio>
   ```
-
----
-
-# Final Notes
-
-This documentation is intended to be a living document. As you continue to develop and refine the YouTube Shorts Automation Tool, ensure that this README is updated accordingly to reflect new features, changes, and enhancements. Keeping documentation up-to-date is crucial for maintaining clarity and facilitating collaboration.
-
-Feel free to modify and expand upon this documentation to best suit your project's evolving needs.
-
----
